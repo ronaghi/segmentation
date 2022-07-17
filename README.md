@@ -1,2 +1,2 @@
-# segmentation
-Segmentation of the Group of Twenty (G20) Countries
+# Segmentation of the Group of Twenty (G20) Countries
+My research objective is segmentation of the Group of Twenty (G20) countries based on their economic health. The G20 is an intergovernmental forum comprising 19 countries and the European Union. It works to address major issues related to the global economy such as international financial stability, climate change mitigation, and sustainable development. Macroeconomic indicators help to judge the overall health of an economy. Individuals and businesses often use these indicators to make financial decisions. These decisions can relate to making financial investments, saving money, acquiring new assets or other important decisions.
